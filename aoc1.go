@@ -41,3 +41,10 @@ func main() {
 	}
 	fmt.Printf("Total calibration value is: %d", totalCalibrationScore)
 }
+
+// Algo for part 2
+/*
+	1. Check the length of each string.
+	2. Check for digit positions and store indexes of digits.
+	3. Check for lettered digits.
+*/
